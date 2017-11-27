@@ -1,11 +1,20 @@
 h1{
-	background-color: blue;
+	background-color: red;
+	color:white;
+}
+body{
+	width: 550px;
+
+	margin: 50px;
+	padding: 10px;
+	border:5px solid grey ;
 }
 
 #button {
+
     width: 6em;
     border: 2px solid green;
-    background: #ffe;
+    background: white;
     border-radius: 5px;
 }
 a {
